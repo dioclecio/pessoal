@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Dino - Dioclecio Camelo</title>
-    <link>http://dioclecio.com/categories/</link>
-    <description>Recent content in Categories on Dino - Dioclecio Camelo</description>
+    <title>Categories on Dino</title>
+    <link>https://dioclecio.com/categories/</link>
+    <description>Recent content in Categories on Dino</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="http://dioclecio.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 12 Dec 2021 15:24:41 +0300</lastBuildDate><atom:link href="https://dioclecio.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>commonplace book, arquivo de notas, zettelkasten, segunda memória</title>
+      <link>https://dioclecio.com/categories/commonplace-book-arquivo-de-notas-zettelkasten-segunda-mem%C3%B3ria/</link>
+      <pubDate>Sun, 12 Dec 2021 15:24:41 +0300</pubDate>
+      
+      <guid>https://dioclecio.com/categories/commonplace-book-arquivo-de-notas-zettelkasten-segunda-mem%C3%B3ria/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
