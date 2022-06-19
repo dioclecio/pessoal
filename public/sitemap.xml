@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://dioclecio.com/</loc>
+    <lastmod>2020-12-03T14:24:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dioclecio.com/posts/meu-primeiro-post/</loc>
+    <lastmod>2020-12-02T19:28:33-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dioclecio.com/posts/</loc>
+    <lastmod>2020-12-02T19:28:33-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dioclecio.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dioclecio.com/tags/</loc>
+  </url>
+  
+</urlset>
