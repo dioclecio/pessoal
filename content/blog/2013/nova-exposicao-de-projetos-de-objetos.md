@@ -21,5 +21,3 @@ Vale à pena ver os resultados alcançados pelos alunos.
 Visitem o site:
 
 http://designobjetos.wordpress.com/
-
-

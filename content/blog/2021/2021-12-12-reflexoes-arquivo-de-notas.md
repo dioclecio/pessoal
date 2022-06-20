@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Caminhos para um arquivo pessoal de notas"
-date: 2021-12-12 15:24:41 +0300
-categories: commonplace book, arquivo de notas, zettelkasten, segunda memória
-featured_image: "img/manaus.jpg"
+date: 2021-12-30 15:24:41 +0300
+tags: 
+    - commonplace book
+    - arquivo de notas
+    - zettelkasten
+    - segunda memória
+featured_image: "/img/manaus.jpg"
 ---
 
 Vou utilizar esse espaço para fazer alguns pequenos ensaios, muitos sem nenhum rigor acadêmico. Espero publicar algumas reflexões feitas sobre as leituras ou apenas ter um lugar para discutir comigo mesmo aquilo que esteja momentaneamente no meu espectro de curiosidade. 
@@ -14,7 +18,7 @@ Conheci o sistema de arquivo de notas quando estava buscando por uma solução q
 
 Vou começar essa publicação com um tema que tem me interessado nos últimos tempos: o sistema de arquivo de notas. Acredito que seja mais um repasse rápido na história, sem citar nomes, apontando aqui e ali um autor ou outro. Quem não conhece, os arquivos de notas vêm sendo assunto de debates e reflexões de algumas pessoas que tem interesse em potencializar sua escrita ou em lidar melhor com as dificuldades que nossa memória sempre nos coloca.
 
-Iniciei minhas reflexões quando tentei encontrar algumas ferramentas que me ajudassem a lembrar, principalmente detalhes, sobre aquilo que venho lendo e, quem sabe, ter uma segunda memória (não a memória do estômago) que pudesse trabalhar como um colaborador na escrita de um artigo ou outro e, quem sabe, ter uma ajuda nas pesquisas e nos estudos. No final de 2019, li o livro "How to take smart notes" de Sönek Ahrens [^ahrens]. O livro apresenta uma introdução bem detalhada e bem entusiasta sobre o arquivo de notas (ou *zettelkasten*) e seu processo de montagem baseado no trabalho do sociólogo Niklas Luhmann. Para quem não conhece, Luhamnn foi um dos sociólogos que mais publicou em vida. Existe uma penca de publicações e artigos exaltando o impressionante volume de trabalhos que desenvolveu dentro das mais diversas áreas [^google]. Mas foi principalmente dentro da sociologia e da teoria dos sistemas que Luhmann dedicou boa parte de suas pesquisas. Não pretendo reproduzir números ou informações imprecisas. Cada artigo aumenta um número. Tenho interesse em comentar como um pequeno instrumento de papel e caneta fez parte da história e pode nos ajudar a estimular a escrita. 
+Iniciei minhas reflexões quando tentei encontrar algumas ferramentas que me ajudassem a lembrar, principalmente detalhes, sobre aquilo que venho lendo e, quem sabe, ter uma segunda memória (não a memória do estômago) que pudesse trabalhar como um colaborador na escrita de um artigo ou outro e, quem sabe, ter uma ajuda nas pesquisas e nos estudos. No final de 2019, li o livro "*How to take smart notes*" de Sönek Ahrens [^ahrens]. O livro apresenta uma introdução bem detalhada e bem entusiasta sobre o arquivo de notas (ou *zettelkasten*) e seu processo de montagem baseado no trabalho do sociólogo Niklas Luhmann. Para quem não conhece, Luhamnn foi um dos sociólogos que mais publicou em vida. Existe uma penca de publicações e artigos exaltando o impressionante volume de trabalhos que desenvolveu dentro das mais diversas áreas [^google]. Mas foi principalmente dentro da sociologia e da teoria dos sistemas que Luhmann dedicou boa parte de suas pesquisas. Não pretendo reproduzir números ou informações imprecisas. Cada artigo aumenta um número. Tenho interesse em comentar como um pequeno instrumento de papel e caneta fez parte da história e pode nos ajudar a estimular a escrita. 
 
 É certo que devemos criar um hábito, uma regularidade, escolher temas que estejam dentro de nosso interesse, para que possamos dedicar a leitura, a acumular ideias sobre aquilo que nos chama a atenção, desenvolver uma análise profunda sobre esse acúmulo e, por fim, escrever com conteúdo e construindo argumentos sólidos.
 
@@ -24,13 +28,13 @@ Na história, o arquivo de notas foi adotado de maneiras diferentes, alguns util
 
 Cada cultura adaptou técnicas e métodos próprios e acompanhou essa tradição em círculos, em grupos e por personalidades. Na região da antiga Prússia, na Suíça e Áustria, personalidades como Conrad Gesner utilizaram recortes e cartões de índice como suporte ao arquivo de notas (figura 1). 
 
-![Conrad Gesner](../img/conrad-gesner.jpg)
+![Conrad Gesner](/img/2022/2a406255b3340ad5121c0b6b136f3255f1c90a79.jpg)
 
 Figura 1 - Arquivo de notas organizados para explorar os livros publicados em 1545. [^kedem]
 
 Os ingleses passaram a adotar cadernos com anotações contínuas, e alguns organizavam essas notas utilizando índices com temas de seus interesses, como foi o método desenvolvido por Locke em 1706 [^locke] e que foi adotado por alunos das Universidades de Harvard e Oxford no século XVII [^universidades]. A figura 2 mostra um dos registros feito por alunos da Universidade de Harvard em 1625. 
 
-![](../img/harvard.png)
+![](/img/2022/43a098a855156bca8452da8f40a8047675a208e7.png)
 
 Figura 2 - Anotações de alunos da escola de Harvard em 1625 [^harvard]. 
 

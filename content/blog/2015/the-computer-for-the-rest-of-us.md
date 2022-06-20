@@ -2,13 +2,16 @@
 title: "The Computer for the Rest of Us"
 date: 2015-04-04T16:02:39-03:00
 draft: false
+
 tags: 
     - MacOS
     - Quicktime
 aliases:
     - /2015/04/the-computer-for-the-rest-of-us/
 featured_image: "/img/old/Captura-de-Tela-2015-04-04-às-10.00.21.png"
+
 ---
+
 É meio desagradável preparar aulas sem as ferramentas adequadas. Quando se trata de montar aula e gravar para reproduzir aos alunos, esta tarefa acaba sendo mais ingrata ainda. No mercado existem poucas ferramentas de software que facilitam a nossa vida. No Windows você dispõe de alguns poucos, pior ainda quando precisa depender de codec ou de plugins para que sua apresentação possa funcionar.
 
 Bill Gates passou pela universidade, mas acredito que nunca se colocou no lugar do professor. Jobs, por outro lado, trouxe alguns ensinamento da equipe da Next que, acredito, devem ter permitido pensar o sistema para quem trabalha com aulas ou palestras.
@@ -16,6 +19,7 @@ Bill Gates passou pela universidade, mas acredito que nunca se colocou no lugar 
 Recentemente descobri que trabalhar com aulas no OSX é bastante simples, gravá-las, mais simples ainda. Tudo isto, sem instalar um plugin ou um único software. Tudo ali, disponível.
 
 # Tirando fotos da tela
+
 Uma das coisas que costumo fazer é tirar fotos de partes da tela para incorporar às apresentações. Para fazê-lo basta ativar as teclas:
 
 ```Command + Shift + 4```
@@ -26,6 +30,7 @@ E pronto, sua imagem vai estar disponível na Mesa de trabalho.
 ![Captura de tela](/img/old/Captura-de-Tela-2015-04-04-às-10.00.21.png "Captura de tela")
 
 # Gravando a tela
+
 Para gravar o que você está fazendo, é só fazer o seguinte:
 
 * Abrir o Quicktime

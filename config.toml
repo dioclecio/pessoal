@@ -1,16 +1,16 @@
 baseURL = "https://dioclecio.com/"
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
-title = "Dino"
+title = "Dioclecio"
 theme = "ananke"
 
-SectionPagesMenu = "main"
+# SectionPagesMenu = "main"
 
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "G-753L8QXCLP"
 enableRobotsTXT = true
 
-menu = ['sobre', 'main', 'contato']
+# menu = 'main'
 
 [sitemap]
   changefreq = "weekly"
@@ -19,13 +19,13 @@ menu = ['sobre', 'main', 'contato']
 
 [params]
   favicon = ""
-  site_logo = ""
+  site_logo = "/img/2022/logo.png"
   description = "Algumas reflexões e projetos para expor"
-  facebook = ""
+  # facebook = ""
   twitter = "https://twitter.com/DioclecioCom"
-  instagram = ""
+  # instagram = ""
   # youtube = ""
-  github = ""
+  github = "https://github.com/dioclecio"
   # gitlab = ""
   # linkedin = ""
   # mastodon = ""
@@ -34,8 +34,29 @@ menu = ['sobre', 'main', 'contato']
   # rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+  featured_image = "/img/2022/peter-lawrence-hdhNFQQje0s-unsplash.jpg"
+  recent_posts_number = 3
 
+[menu]
+  [[menu.main]]
+      name = "Principal"
+      pre = "<i class='fa fa-heart'></i>"
+      weight = -110
+      identifier = "home"
+      url = "/"
+  [[menu.main]]
+      name = "Blog"
+      pre = "<i class='fa fa-road'></i>"
+      weight = -100
+      url = "/blog/"
+  [[menu.main]]
+      name = "Projetos"
+      pre = "<i class='fa fa-road'></i>"
+      weight = -90
+      url = "/projetos/"
 
-
+  [[menu.main]]
+      name = "Contato"
+      pre = "<i class='fa fa-road'></i>"
+      weight = -1
+      url = "/contato/"
