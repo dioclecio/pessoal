@@ -7,18 +7,33 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://dioclecio.com/blog/2021/12/2021-12-12-reflexoes-arquivo-de-notas/</loc>
-    <lastmod>2021-12-12T15:24:41+03:00</lastmod>
+    <loc>https://dioclecio.com/tags/arquivo-de-notas/</loc>
+    <lastmod>2021-12-30T15:24:41+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://dioclecio.com/categories/</loc>
-    <lastmod>2021-12-12T15:24:41+03:00</lastmod>
+    <loc>https://dioclecio.com/blog/2021/2021-12-12-reflexoes-arquivo-de-notas/</loc>
+    <lastmod>2021-12-30T15:24:41+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://dioclecio.com/categories/commonplace-book-arquivo-de-notas-zettelkasten-segunda-mem%C3%B3ria/</loc>
-    <lastmod>2021-12-12T15:24:41+03:00</lastmod>
+    <loc>https://dioclecio.com/tags/commonplace-book/</loc>
+    <lastmod>2021-12-30T15:24:41+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dioclecio.com/tags/segunda-mem%C3%B3ria/</loc>
+    <lastmod>2021-12-30T15:24:41+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dioclecio.com/tags/</loc>
+    <lastmod>2021-12-30T15:24:41+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dioclecio.com/tags/zettelkasten/</loc>
+    <lastmod>2021-12-30T15:24:41+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -33,11 +48,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://dioclecio.com/blog/</loc>
-    <lastmod>2020-12-03T14:37:31-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://dioclecio.com/blog/antigas/</loc>
     <lastmod>2020-12-03T14:37:31-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -57,27 +67,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://dioclecio.com/tags/</loc>
+    <loc>https://dioclecio.com/blog/2015/the-computer-for-the-rest-of-us/</loc>
     <lastmod>2015-04-04T16:02:39-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://dioclecio.com/blog/antigas/the-computer-for-the-rest-of-us/</loc>
-    <lastmod>2015-04-04T16:02:39-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://dioclecio.com/tags/m%C3%A1quina-virtual/</loc>
+    <loc>https://dioclecio.com/tags/m%C3%A1quinas-virtuais/</loc>
     <lastmod>2014-10-13T15:49:38-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://dioclecio.com/blog/antigas/sistemas-em-ambientes-virtuais/</loc>
+    <loc>https://dioclecio.com/blog/2014/sistemas-em-ambientes-virtuais/</loc>
     <lastmod>2014-10-13T15:49:38-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://dioclecio.com/blog/antigas/aventura-em-outros-sistemas/</loc>
+    <loc>https://dioclecio.com/blog/2014/aventura-em-outros-sistemas/</loc>
     <lastmod>2014-06-13T15:43:41-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -92,13 +97,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://dioclecio.com/blog/antigas/nova-exposicao-de-projetos-de-objetos/</loc>
+    <loc>https://dioclecio.com/blog/2013/nova-exposicao-de-projetos-de-objetos/</loc>
     <lastmod>2013-12-01T15:30:52-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://dioclecio.com/tags/projetos/</loc>
     <lastmod>2013-12-01T15:30:52-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dioclecio.com/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

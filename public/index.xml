@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dino</title>
+    <title>Dioclecio</title>
     <link>https://dioclecio.com/</link>
-    <description>Recent content on Dino</description>
+    <description>Recent content on Dioclecio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 03 Dec 2020 14:24:24 -0300</lastBuildDate><atom:link href="https://dioclecio.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Caminhos para um arquivo pessoal de notas</title>
-      <link>https://dioclecio.com/blog/2021/12/2021-12-12-reflexoes-arquivo-de-notas/</link>
-      <pubDate>Sun, 12 Dec 2021 15:24:41 +0300</pubDate>
+      <link>https://dioclecio.com/blog/2021/2021-12-12-reflexoes-arquivo-de-notas/</link>
+      <pubDate>Thu, 30 Dec 2021 15:24:41 +0300</pubDate>
       
-      <guid>https://dioclecio.com/blog/2021/12/2021-12-12-reflexoes-arquivo-de-notas/</guid>
+      <guid>https://dioclecio.com/blog/2021/2021-12-12-reflexoes-arquivo-de-notas/</guid>
       <description>Vou utilizar esse espaço para fazer alguns pequenos ensaios, muitos sem nenhum rigor acadêmico. Espero publicar algumas reflexões feitas sobre as leituras ou apenas ter um lugar para discutir comigo mesmo aquilo que esteja momentaneamente no meu espectro de curiosidade.
 Vou falar sobre o sistema de arquivo de notas, que é um tema que me chamou a atenção nos últimos meses. Acredito que seja apenas um repasse histórico sobre o tema, evitarei falar de nomes, ou apontar um autor aqui e outro ali.</description>
     </item>
     
     <item>
       <title>The Computer for the Rest of Us</title>
-      <link>https://dioclecio.com/blog/antigas/the-computer-for-the-rest-of-us/</link>
+      <link>https://dioclecio.com/blog/2015/the-computer-for-the-rest-of-us/</link>
       <pubDate>Sat, 04 Apr 2015 16:02:39 -0300</pubDate>
       
-      <guid>https://dioclecio.com/blog/antigas/the-computer-for-the-rest-of-us/</guid>
+      <guid>https://dioclecio.com/blog/2015/the-computer-for-the-rest-of-us/</guid>
       <description>É meio desagradável preparar aulas sem as ferramentas adequadas. Quando se trata de montar aula e gravar para reproduzir aos alunos, esta tarefa acaba sendo mais ingrata ainda. No mercado existem poucas ferramentas de software que facilitam a nossa vida. No Windows você dispõe de alguns poucos, pior ainda quando precisa depender de codec ou de plugins para que sua apresentação possa funcionar.
 Bill Gates passou pela universidade, mas acredito que nunca se colocou no lugar do professor.</description>
     </item>
     
     <item>
       <title>Sistemas em Ambientes Virtuais</title>
-      <link>https://dioclecio.com/blog/antigas/sistemas-em-ambientes-virtuais/</link>
+      <link>https://dioclecio.com/blog/2014/sistemas-em-ambientes-virtuais/</link>
       <pubDate>Mon, 13 Oct 2014 15:49:38 -0300</pubDate>
       
-      <guid>https://dioclecio.com/blog/antigas/sistemas-em-ambientes-virtuais/</guid>
+      <guid>https://dioclecio.com/blog/2014/sistemas-em-ambientes-virtuais/</guid>
       <description>Depois de brincar um pouco com alguns sistemas, achei bem interessante a idéia de virtualizar um computador e provar sistemas operacionais diferentes. Agora tenho meu próprio servidor trabalhando com o Windows em uma máquina virtual.
 Realmente, a Microsoft tem uma iniciativa louvável de colocar um sistema compatível com quase todos os hardwares existentes na face da terra. O problema maior está na interface pouco amigável e nas constantes renovações.</description>
     </item>
     
     <item>
       <title>Aventura em Outros Sistemas</title>
-      <link>https://dioclecio.com/blog/antigas/aventura-em-outros-sistemas/</link>
+      <link>https://dioclecio.com/blog/2014/aventura-em-outros-sistemas/</link>
       <pubDate>Fri, 13 Jun 2014 15:43:41 -0300</pubDate>
       
-      <guid>https://dioclecio.com/blog/antigas/aventura-em-outros-sistemas/</guid>
-      <description>Informações sobre o OpenWRT   Nos últimos meses tenho brincado um pouco com o Openwrt em um roteador antigo. Que coisa interessante, dar um melhor uso para o roteador.
+      <guid>https://dioclecio.com/blog/2014/aventura-em-outros-sistemas/</guid>
+      <description>Nos últimos meses tenho brincado um pouco com o Openwrt em um roteador antigo. Que coisa interessante, dar um melhor uso para o roteador.
 Aqui vai um screenshot do que está instalado.</description>
     </item>
     
     <item>
       <title>Nova Exposição de Projetos de Objetos</title>
-      <link>https://dioclecio.com/blog/antigas/nova-exposicao-de-projetos-de-objetos/</link>
+      <link>https://dioclecio.com/blog/2013/nova-exposicao-de-projetos-de-objetos/</link>
       <pubDate>Sun, 01 Dec 2013 15:30:52 -0300</pubDate>
       
-      <guid>https://dioclecio.com/blog/antigas/nova-exposicao-de-projetos-de-objetos/</guid>
+      <guid>https://dioclecio.com/blog/2013/nova-exposicao-de-projetos-de-objetos/</guid>
       <description>Os alunos do 2o período de 2013 da disciplina de objetos 2 estão com seus projetos disponíveis no site do WordPress.
 As soluções são modelos funcionais de objetos de uso do cotidiano em casa ou de suporte aos ambulantes da cidade de Maceió. Muitos dos projetos mostram um storyboard e exploram ferramentas interessantes como uma forma simplificada do diagrama Quality-Function Deployment (QFD), usualmente adotado nas engenharias como suporte ao desenvolvimento de novos produtos ou no redesign de objetos existentes.</description>
     </item>
