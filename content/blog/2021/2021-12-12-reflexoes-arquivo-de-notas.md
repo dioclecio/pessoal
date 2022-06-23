@@ -2,12 +2,14 @@
 layout: post
 title: "Caminhos para um arquivo pessoal de notas"
 date: 2021-12-30 15:24:41 +0300
+draft: true
 tags: 
     - commonplace book
     - arquivo de notas
     - zettelkasten
     - segunda memória
 featured_image: "/img/manaus.jpg"
+ 
 ---
 
 Vou utilizar esse espaço para fazer alguns pequenos ensaios, muitos sem nenhum rigor acadêmico. Espero publicar algumas reflexões feitas sobre as leituras ou apenas ter um lugar para discutir comigo mesmo aquilo que esteja momentaneamente no meu espectro de curiosidade. 
