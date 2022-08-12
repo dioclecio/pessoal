@@ -10,8 +10,6 @@ url: /sobre/
 
 ---
 
-Dioclecio Camelo é designer de produtos e especialista em inovação e sustentabilidade.
+Dioclécio é pai de uma linda flor, designer de produto, entusiasta das tecnologias e das inovações. Atualmente trabalha como professor adjunto do Curso de Design do Campus Regional de Cianorte da [Universidade Estadual de Maringá](https://www.uem.br). 
 
-Dioclecio trabalha como professor adjunto do Curso de Design do Campus Regional de Cianorte da [Universidade Estadual de Maringá](https://www.uem.br). 
-
-Lidera o Laboratório de Estudos Avançados em Design e Inovação (LAEDIn), [registrado no Diretório de Grupos de Pesquisa do CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/1698611807060492).
+Dioclécio tem orientado alunos da graduação em Design de Produtos e lidera o Laboratório de Estudos Avançados em Design e Inovação (LAEDIn), [registrado no Diretório de Grupos de Pesquisa do CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/1698611807060492).
