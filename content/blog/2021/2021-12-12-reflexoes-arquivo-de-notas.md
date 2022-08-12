@@ -30,7 +30,7 @@ Iniciei minhas reflexões quando tentei encontrar algumas ferramentas que me aju
 
 No final de 2019, li o livro  "*How to take smart notes*" de Sönek Ahrens [^ahrens]. O livro apresenta uma introdução bem detalhada e bem entusiasta sobre o arquivo de notas (ou *zettelkasten*) e seu processo de montagem baseado no trabalho do sociólogo Niklas Luhmann. Para quem não conhece, Luhamnn foi um dos sociólogos que mais publicou em vida. Existe uma penca de publicações e artigos exaltando o impressionante volume de trabalhos que desenvolveu dentro das mais diversas áreas [^google]. Mas foi principalmente dentro da sociologia e da teoria dos sistemas que Luhmann dedicou boa parte de suas pesquisas. Não pretendo reproduzir números ou informações imprecisas. Cada artigo aumenta um número. Tenho interesse em comentar como um pequeno instrumento de papel e caneta fez parte da história e pode nos ajudar a estimular a escrita. 
 
-![](2021-12-12-reflexoes-arquivo-de-notas/ba5d8e8066e1f0efec0c9c62c72f894451571946.jpg)
+![](/img/2022/zettelkasten.jpg)
 
 Figura 1 - Uma caixa de notas organizadas por tema para auxiliar na escritura de um trabalho acadêmico.
 
@@ -42,13 +42,13 @@ Na história, o arquivo de notas foi adotado de maneiras diferentes, alguns util
 
 Cada cultura adaptou técnicas e métodos próprios e acompanhou essa tradição em círculos, em grupos e por personalidades. Na região da antiga Prússia, na Suíça e Áustria, personalidades como Conrad Gesner utilizaram recortes e cartões de índice como suporte ao arquivo de notas (figura 1). 
 
-<img src="'/img/2022/2021-12-12-reflexoes-arquivo-de-notas'/2a406255b3340ad5121c0b6b136f3255f1c90a79.jpg" title="" alt="Conrad Gesner" width="451">
+![Conrad Guesner](/img/2022/2a406255b3340ad5121c0b6b136f3255f1c90a79.jpg)
 
 Figura 2 - Arquivo de notas organizados para explorar os livros publicados em 1545. [^kedem]
 
 Os ingleses passaram a adotar cadernos com anotações contínuas, e alguns organizavam essas notas utilizando índices com temas de seus interesses, como foi o método desenvolvido por Locke em 1706 [^locke] e que foi adotado por alunos das Universidades de Harvard e Oxford no século XVII [^universidades]. A figura 2 mostra um dos registros feito por alunos da Universidade de Harvard em 1625. 
 
-![]('/img/2022/2021-12-12-reflexoes-arquivo-de-notas'/43a098a855156bca8452da8f40a8047675a208e7.png)
+![Notas de Harvard](/img/2022/43a098a855156bca8452da8f40a8047675a208e7.png)
 
 Figura 3 - Anotações de alunos da escola de Harvard em 1625 [^harvard]. 
 
