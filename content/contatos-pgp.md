@@ -8,8 +8,12 @@ aliases:
     - "/c/"
 ---
 
-Entre em contato comigo através do Telegram. 
+Entre em contato comigo através dos seguintes acessos. 
 
-[Endereço para o Telegram](https://dmcamelo.t.me).
+* [Telegram](https://dmcamelo.t.me).
+* [Whatsapp](https://wa.me/5544999782647?text=Ol%C3%A1%2C%20gostaria%20de%20conversar%20contigo%20pelo%20Whatsapp.)
+* Telefone pessoal: 44 999782647
 
-Ou pelo [Whatsapp](https://wa.me/5544999782647?text=Ol%C3%A1%2C%20gostaria%20de%20conversar%20contigo%20pelo%20Whatsapp.)
+# Cartão de contato
+
+![Cartão de Contatoo](/img/2023/qr.png "Cartão de contato Dioclecio Camelo")
