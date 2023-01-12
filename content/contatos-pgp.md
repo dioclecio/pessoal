@@ -1,0 +1,15 @@
+---
+title: "Contatos Pessoais"
+date: 2023-01-12
+draft: false
+featured_image: "/img/old/2013.11.10-Testeira-20.jpg"
+sitemap_exclude: true
+aliases:
+    - "/c/"
+---
+
+Entre em contato comigo através do Telegram. 
+
+[Endereço para o Telegram](https://dmcamelo.t.me).
+
+Ou pelo [Whatsapp](https://wa.me/5544999782647?text=Ol%C3%A1%2C%20gostaria%20de%20conversar%20contigo%20pelo%20Whatsapp.)

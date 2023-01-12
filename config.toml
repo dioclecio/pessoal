@@ -56,6 +56,12 @@ enableRobotsTXT = true
       url = "/projetos/"
 
   [[menu.main]]
+      name = "Sobre"
+      pre = "<i class='fa fa-road'></i>"
+      weight = -80
+      url = "/sobre/"
+
+  [[menu.main]]
       name = "Contato"
       pre = "<i class='fa fa-road'></i>"
       weight = -1
