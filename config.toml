@@ -2,7 +2,7 @@ baseURL = "https://dioclecio.com/"
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
 title = "Dioclecio"
-theme = "ananke"
+theme = "gohugo-theme-ananke"
 
 # SectionPagesMenu = "main"
 

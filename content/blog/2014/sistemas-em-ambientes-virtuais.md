@@ -1,5 +1,4 @@
 ---
-
 title: "Sistemas em Ambientes Virtuais"
 date: 2014-10-13T15:49:38-03:00
 draft: false
