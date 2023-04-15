@@ -3,10 +3,8 @@ title: "Sobre"
 date: 2020-12-03T15:10:06-03:00
 draft: false
 aliases:
-    - /sobre/
-#    - /about/
+    - /about/
 featured_image: "/img/old/apagar001.jpg"
-# url: /sobre/
 
 ---
 
